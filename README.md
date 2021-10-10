@@ -1,4 +1,6 @@
-# hardware/rainloop
+# Rainloop Docker
+
+Based on [hardware/rainloop](https://github.com/hardware/rainloop)
 
 ![](https://i.goopics.net/nI.png)
 
